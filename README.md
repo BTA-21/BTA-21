@@ -2,16 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/BTA-21/ActiveDirectoryLab/blob/main/README.md)
+- In Progress
 
+<h2>🌱 I’m currently learning</h2>
+
+- How to make an active directory
 <h2>📄 Certification</h2>
 
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- In Progress
+<h2>📺 YouTube Videos</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
 
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -21,8 +22,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: [https://x.com/xbt21x?s=21]
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://x.com/xbt21x?s=21
+[youtube]: https://youtube.com/@benta6696?si=rwZtcFnlDLuodOR-
 [instagram]: https://instagram.com/bt.twenty.one?igshid=dG1hZWIyZW9ueWJ5&utm_source=qr
 [linkedin]: https://linkedin.com/in/TaBen
 
