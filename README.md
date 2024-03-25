@@ -11,7 +11,8 @@
 
 - In Progress
 
-
+<h2>🏫 College Education</h2>
+- Bachelor's Degree in Business Administration - CIS * In Progress
 
 
 <h2> 🤳 Connect with me:</h2>
