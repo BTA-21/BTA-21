@@ -10,7 +10,6 @@
 <h2>📄 Certification</h2>
 
 - In Progress
-<h2>📺 YouTube Videos</h2>
 
 
 
