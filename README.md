@@ -1,8 +1,10 @@
 <h1>Hi, I'm Ben! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- In Progress
+- Developing a normalized relational data TaBLab1
+-
+-
 
 <h2>🌱 I’m currently learning</h2>
 
