@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- Developing a normalized relational data [https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/EUPWXLpHdRVKoj9y-BmtAC0BYABOMrvaNq74OA8ppx_Vyw?e=TPBK8j](url)
+- Developing a normalized relational data [TaBLab1](url)
 -
 -
 
