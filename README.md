@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- Developing a normalized relational data [TaBLab1](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/EUPWXLpHdRVKoj9y-BmtAC0BYABOMrvaNq74OA8ppx_Vyw?e=TPBK8j)
-- Creating SQL Statements [TaBLab2](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/ESyB0KP_MeVLvr1F_md1A3UBlDvGdukGBA2-DszTM-M4yA?e=wg0mcS)
-- Advance SQL Queries and Reporting [TaBLab3](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/EXD5K8uAuRdIr6F9mm1Q9WEBTfMEn3iDzt0ys19LZgc0DQ?e=b8ufCL)
+- Developing a normalized relational data: [TaBLab1](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/EUPWXLpHdRVKoj9y-BmtAC0BYABOMrvaNq74OA8ppx_Vyw?e=TPBK8j)
+- Creating SQL Statements: [TaBLab2](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/ESyB0KP_MeVLvr1F_md1A3UBlDvGdukGBA2-DszTM-M4yA?e=wg0mcS)
+- Advance SQL Queries and Reporting: [TaBLab3](https://livecsupomona-my.sharepoint.com/:w:/g/personal/bta_cpp_edu/EXD5K8uAuRdIr6F9mm1Q9WEBTfMEn3iDzt0ys19LZgc0DQ?e=b8ufCL)
 
 <h2>🌱 I’m currently learning</h2>
 
