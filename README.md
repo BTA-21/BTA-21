@@ -12,7 +12,7 @@
 <h2>📄 Certification</h2>
 
 - Google Cybersecurity * In Progress
-- CompTIA Security+
+- CompTIA Security+ * In Progress
 
 <h2>🏫 College Education</h2>
 
