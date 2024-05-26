@@ -11,8 +11,8 @@
 - How to make an active directory
 <h2>📄 Certification</h2>
 
-- Google Cybersecuirty In Progress
-- COMPTIA Security+
+- Google Cybersecurity * In Progress
+- CompTIA Security+
 
 <h2>🏫 College Education</h2>
 
