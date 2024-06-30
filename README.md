@@ -10,7 +10,7 @@
 
 - How to make an active directory
 <h2>📄 Certification</h2>
-- [Google Ai Essentials](https://www.coursera.org/account/accomplishments/certificate/R6VJZ33C2VV7)
+- [Google AI Essentials Certificate.pdf](https://github.com/user-attachments/files/16045859/Google.AI.Essentials.Certificate.pdf)
 - Google Cybersecurity * In Progress
 - CompTIA Security+ * In Progress
 
